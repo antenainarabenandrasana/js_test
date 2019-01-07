@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>JavaScript</title>
+    <link rel="stylesheet" href="apps.css">
+</head>
+<body>
+    <h3>Clic image ou texte || <span data-antenaina-show="show"></span></h3>
+    <img src="images/1.jpg" alt="Images aléatoire">
+    <div class="txt"></div>
+    <script src="apps.js"></script>
+</body>
+</html>
